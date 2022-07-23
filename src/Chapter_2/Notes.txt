@@ -12,3 +12,6 @@ This is editor notes.
    
    add fun 
    add java
+
+   Last call of the editor
+   "We have 2 days."
