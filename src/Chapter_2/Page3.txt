@@ -1,3 +1,9 @@
 Here I created a new pace in chapter 2 to fetch it from the local repository.
 
 That is the point. creating file out of a package(chapter)  was a mistake.
+
+
+With the new changes in the page I need to update locall repository.
+Now I will change it.
+
+but first I need to commit. Or the team mates need to commit the change in the page downside.
