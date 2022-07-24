@@ -1,8 +1,11 @@
 .idea
 out
-*.xml
-*.iml
+xml
+iml
 
 fun.txt
+
+Chapter_3.Page1.txt
+
 
 
